@@ -1,2 +1,2 @@
-# IonicGoogleLogin
+# Ionic Google Login
 Ionic Google Login
